@@ -1,0 +1,9 @@
+{
+    "name": "cd-stan112/8",
+    "autoload": {
+        "psr-4": {
+            "core\\": "app/core/classes"
+        }
+    },
+    "require": {}
+}
