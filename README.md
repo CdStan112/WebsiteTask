@@ -5,9 +5,11 @@ https://dev.fun-x.ru/
 
 Для запуска создайте файл .env с таким содержанием:
 
+```
 DB_PASSWORD=sfCt8FJCAo05LTZR
 DB_DATABASE=news
 DB_USER=news
+```
 
 Далее собираем образ для Docker:
 
