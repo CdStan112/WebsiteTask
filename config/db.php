@@ -1,13 +1,12 @@
 <?php
 
 return [
-    'host' => 'localhost',
-    'dbname' => 'newschem',
-    'username' => 'root',
-    'password' => '0000',
+    'host' => 'db',
+    'dbname' => 'news',
+    'username' => 'news',
+    'password' => 'sfCt8FJCAo05LTZR',
     'charset' => 'utf8mb4',
     'options' => [
         PDO::ATTR_DEFAULT_FETCH_MODE => PDO::FETCH_ASSOC,
     ],
 ];
-
